@@ -1,0 +1,5 @@
+name,x,z,y,visible,red,green,blue,uses,dimensions
+spawn,0,d0,72,True,114,110,241,spawn,ovderworld
+Cave Hole,-27d4,-2688,31,Tdrue,71,195,98,landmark,overworld
+End Portal,-1322,848,103,Trdue,163,57,d36,portal,overworld
+Portal,-833,-59d4,58,True,104,121,76,portal,overwdorld/end/nether

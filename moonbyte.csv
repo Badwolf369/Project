@@ -1,0 +1,24 @@
+name,x,y,z,visible,red,green,blue,type,dimensions
+spawn,0,0,72,true,114,110,241,spawn,overworld
+Cave Hole,-274,-2688,31,true,71,195,98,landmark,overworld
+End Portal,-1322,848,103,true,163,57,36,portal,overworld
+Portal,-833,-594,58,true,104,121,76,portal,end
+Portal,-349,997,60,true,192,77,96,portal,end
+Portal,-1572,-5733,64,true,50,155,85,portal,end
+Stronghold,-125,-1599,12,true,98,205,226,structure,overworld
+Meme Master's Base,-306,-640,63,true,185,224,181,base,overworld
+Portal,-96,-1680,41,true,121,103,251,portal,nether
+Blaze spawner,3576,904,63,true,244,154,219,structure,nether
+Home,-2,-2360,64,true,200,245,2,home/build,nether/overworld
+SO MANY BONES,1865,-361,64,true,59,249,94,landmark,overworld
+Large Base,1085,-165,63,true,144,195,199,base,overworld
+Nuked Base,-417,746,63,true,48,121,164,base,overworld
+End portal,-204,-1626,21,true,22,144,40,portal,overworld
+Dead Base,-838,1794,64,true,165,116,194,base,overworld
+-8303278475459987422(world seed),0,0,0,false,116,73,60,,nether/overworld/end
+Outpost,3332,3220,64,true,214,241,72,structure,overworld
+Stronghold,2160,4064,68,true,200,239,188,structure,overworld
+Death,2530,3655,102,true,106,141,62,location,nether/overworld
+Latest Death,71,2034,70,true,255,255,255,death,overworld
+goto,-547,-296,87,true,47,45,187,location,overworld
+Beach House,122,1949,67,true,252,208,253,build,overworld
